@@ -1,0 +1,54 @@
+listtitle:, 241.101_one
+characters:, 一 , 二 , 三 ,四,五,六,七,八,九,十,文,山,水,丁,王,你,我
+pinyin:, yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí, wén, shān, shuǐ, dīng, wáng, nǐ, wǒ 
+listtitle:, 241.101_two
+characters:,学,生,老,师,好,叫,李,也,是,吗,呢,您,他,不
+pinyin:, xué, shēng ,lǎo, shī, hǎo , jiào, lǐ, yě, shì, mǎ,ne ,nín, tā ,bù
+listtitle:, 241.101_three
+characters:,请,问,什, 么 ,名, 字 , 新 , 西 , 兰 ,人,哪,国,美,的,同,学,朋,友,中
+pinyin:,qǐng, wèn, shén, me ,míng ,zi ,xīn ,xī, lán ,rén ,nǎ, guó ,měi,de, tóng ,xué ,péng, you, zhōng 
+listtitle:, 241.101_four
+characters:,会,说,写,文,汉,英,在,梅,大,学,和,日,她,浯,訁,张
+pinyin:, huì ,shuō, xiě ,wén ,hàn, yīng, zài, méi ,dà ,xué ,hé, rì ,tā ,wú ,yán ,zhāng
+listtitle:, 241.101_five
+characters:,工,作, 程, 习, 电, 脑, 商, 科, 忙, 很,要,去,北,京,星,期,天,几 
+pinyin:, gōng, zuò ,chéng ,xí ,diàn ,nǎo, shāng ,kē,  máng ,hěn, yào, qù ,běi ,jīng, xīng ,qī ,tiān ,jǐ  
+listtitle:, 241.101_six
+characters:,月,号,有,时,间,没,起,吃,饭,谢,见,再
+pinyin:, yuè, hào, yǒu ,shí ,jiān ,méi ,qǐ ,chī ,fàn ,xiè ,jiàn,zài
+listtitle:, 241.101_seven
+characters:,课,点,刻,分,钟,两,上,下,午,都,晩,今,明,图,书,馆,对,关,系
+pinyin:, kè ,diǎn ,kè ,fēn ,zhōng ,liǎng ,shàng ,xià ,wǔ ,dōu ,wǎn ,jīn ,míng ,tú ,shū ,guǎn ,duì ,guān, xi  
+listtitle:, 241.101_eight
+characters:,谁,家,口,个,弟,妹,还,只,猫,这,那,爸,妈,姐,哥,狗,男,孩,子,女,先,太,儿
+pinyin:, shéi ,jiā, kǒu ,gè ,dì, mèi ,hái ,zhǐ ,māo ,zhè ,nà, bà, mā ,jiě ,gē ,gǒu ,nán, hái, zi, nǚ ,xiān ,tài ,ér  
+listtitle:, 241.101_nine
+characters:,买,件,衬,衫,怎,样, 试,了,点,小,多,少,钱,百,零,块,毛,双,贵,便,店,员,顾,客
+pinyin:, mǎi ,jiàn ,chèn, shān ,zěn ,yàng ,shì ,liǎo ,diǎn ,xiǎo ,duō ,shǎo ,qián, bǎi ,líng ,kuài, máo ,shuāng, guì ,biàn ,diàn, yuán,gù,kè
+listtitle:, 241.101_ten
+characters:,看,影,早,床,啊,睡,觉,视,打,球,东,本,水,果
+pinyin:, kàn, yǐng, zǎo ,chuáng, ā, shuì, jiào, shì, dǎ ,qiú ,dōng ,běn ,shuǐ ,guǒ
+listtitle:, 241.102_nine
+characters:,看,影,起,床,晩,睡,觉,视,计,划,饭,东,西,本,书,午,回
+pinyin:, kàn, yǐng, qǐ ,chuáng, wǎn, shuì, jiào, shì, jì,huà ,fàn ,dōng ,xī ,běn ,shū ,wǔ ,huí
+listtitle:, 241.102_ten
+characters:,事,想,玩, 住, 离, 这, 远,  车,就,旁,边,对,面,坐,公,共,汽,车
+pinyin:, shì ,xiǎng, wán ,zhù ,lí ,zhè, yuǎn ,chē, jiù, páng, biān, duì ,miàn, zuò ,gōng ,gòng ,qì ,chē
+listtitle:, 241.102_eleven
+characters:,喂,打,错,等,正,邮,件,们,话,给,可    
+pinyin:, wéi, dǎ, cuò,děng ,zhèng  ,yóu ,jiàn ,men ,huà, gěi, kě
+listtitle:, 241.102_twelve
+characters:,喝,茶,咖,啡,杯,盘,饺,过,炒,面,来,汤,甜,西,爪,冰,淇,淋 
+pinyin:,hē,chá, kā, fēi ,bēi,pán, jiǎo, guò, chǎo ,miàn ,lái, tāng ,tián, xī ,zhuǎ, bīng, qí, lín
+listtitle:, 241.102_thirteen
+characters:,周,末,每,洗,衣,服,时,候,候,气,运,动,篮,球,游,泳,阴,雨,蛋,糕,送,岁,但   
+pinyin:, zhōu, mò, měi ,xǐ, yī, fú ,shí ,hou,hòu , qì ,yùn ,dòng, lán, qiú, yóu, yǒng, yīn, yǔ, dàn ,gāo, sòng, suì ,dàn 
+listtitle:, 241.102_fourteen
+characters:,知,道,手,机,码,最,发,短,信,礼,物,男,宿,舍,让,以,忘,认,识
+pinyin:, zhī ,dào ,shǒu, jī, mǎ, zuì, fā ,duǎn, xìn, lǐ, wù ,nán ,sù, shè ,ràng ,yǐ,wàng ,rèn, shi  
+listtitle:, 241.102_fifteen
+characters:,久,期,门,业,因,为, 用,难,就,教,育,年,毕,现,健,身,房,觉,得   
+pinyin:, jiǔ ,qī ,mén, yè, yīn ,wèi ,yòng ,nán ,jiù, jiào, yù, nián, bì, xiàn, jiàn ,shēn ,fáng ,jué, dé 
+listtitle:, 241.102_sixteen
+characters:,穿,颜,色,看, 喜,欢 ,红,色,黑,白,条,蓝,领,带  ,祝,快,乐 ,到, 客,气,高,兴,定,帅
+pinyin:, chuān, yán ,sè ,kàn, xǐ ,huan ,hóng, sè, hēi ,bái ,tiáo ,lán ,lǐng, dài, zhù, kuài ,lè ,dào, kè ,qi, gāo ,xìng ,dìng ,shuài

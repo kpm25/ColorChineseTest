@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mycolorchinese"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DataManagementActivity"
+            android:label="@string/title_activity_data_management" >
+        </activity>
+        <activity
+            android:name=".ReviewPageActivity"
+            android:label="@string/title_activity_review_page" >
+        </activity>
+        <activity
+            android:name=".CharacterDatabaseActivity"
+            android:label="@string/title_activity_character_database" >
+        </activity>
+        <activity
+            android:name=".FileLoadCharacterActivity"
+            android:label="@string/title_activity_file_load_character" >
+        </activity>
+        <activity
+            android:name=".VocabDatabaseActivity"
+            android:label="@string/title_activity_vocab_database" >
+        </activity>
+        <activity
+            android:name=".FileLoadVocabActivity"
+            android:label="@string/title_activity_file_load_vocab" >
+        </activity>
+        <activity
+            android:name=".SentenceDatabaseActivity"
+            android:label="@string/title_activity_sentence_database" >
+        </activity>
+        <activity
+            android:name=".FileLoadSentenceActivity"
+            android:label="@string/title_activity_file_load_sentence" >
+        </activity>
+        <activity
+            android:name=".ReviewSentencesActivity"
+            android:label="@string/title_activity_review_sentences" >
+        </activity>
+        <activity
+            android:name=".ReviewSentenceClassroomActivity"
+            android:label="@string/title_activity_review_sentence_classroom" >
+        </activity>
+        <activity
+            android:name=".ReviewVocabActivity"
+            android:label="@string/title_activity_review_vocab" >
+        </activity>
+        <activity
+            android:name=".ReviewVocabClassroomActivity"
+            android:label="@string/title_activity_review_vocab_classroom" >
+        </activity>
+        <activity
+            android:name=".ReviewCharactersActivity"
+            android:label="@string/title_activity_review_characters" >
+        </activity>
+        <activity
+            android:name=".ReviewCharacterClassroomActivity"
+            android:label="@string/title_activity_review_character_classroom" >
+        </activity>
+        <activity
+            android:name=".LearnAboutPinyinActivity"
+            android:label="@string/title_activity_learn_about_pinyin" >
+        </activity>
+        <activity
+            android:name=".TranslateActivity"
+            android:label="@string/title_activity_translate" >
+        </activity>
+        <activity
+            android:name=".ImageViewActivity"
+            android:label="@string/title_activity_image_view" >
+        </activity>
+        <activity
+            android:name=".SentenceSuggestActivity"
+            android:label="@string/title_activity_sentence_suggest" >
+        </activity>
+    </application>
+
+</manifest>

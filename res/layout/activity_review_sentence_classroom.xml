@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+ android:background="#FFFFFF"      
+    
+    >
+    
+     <TableLayout
+         android:id="@+id/tableForSentenceLists"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_marginTop="140dp"
+         android:stretchColumns="*" >
+
+        
+
+     </TableLayout>
+
+     <ProgressBar
+             android:id="@+id/progressBarSentence"
+             style="?android:attr/progressBarStyleHorizontal"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="15dp"
+             android:paddingLeft="10dp"
+             android:paddingRight="10dp"
+             android:visibility="invisible" />
+     
+     
+     <CheckBox
+         android:id="@+id/checkBoxToneColorsSentenceClassroom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+        
+         android:layout_toRightOf="@+id/checkBoxRandomSentence"
+         android:text="Tone Colours" />
+
+ <CheckBox
+     android:id="@+id/checkBoxTranslationSentenceClassroom"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_below="@+id/checkBoxRandomSentence"
+     android:onClick="showTranslation"
+     android:text="English Translation" />
+
+     <Button
+         android:id="@+id/buttonNextSentenceClassroom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_toRightOf="@+id/checkBoxToneColorsSentenceClassroom"
+          android:width="150dp"
+         android:text="Next"
+          />
+      
+     <CheckBox
+         android:id="@+id/checkBoxRandomSentence"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/tableForSentenceLists"
+         android:layout_alignParentTop="true"
+         android:text="Random " />
+
+          <ToggleButton
+           android:id="@+id/toggleButtonSentence"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="60dp"
+             android:checked="false"
+             android:textOff="TRY TO SAY THIS CHINESE SENTENCE: "
+             android:textOn="LISTENING TO CHINESE..."
+             android:textSize="15dp" />
+
+               
+     <Button
+              android:id="@+id/buttonListenSentence"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+          
+              android:layout_marginTop="100dp"
+              android:onClick="speakOut"
+              android:text="Listen To Sentence" />
+     
+</RelativeLayout>

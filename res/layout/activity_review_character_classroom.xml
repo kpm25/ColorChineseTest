@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    
+ android:background="#FFFFFF" >
+    
+     <TableLayout
+         android:id="@+id/tableForVocabLists"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_marginTop="0dp"
+         android:stretchColumns="*" >
+
+         <ProgressBar
+             android:id="@+id/progressBar1"
+             style="?android:attr/progressBarStyleHorizontal"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="15dp"
+             android:paddingLeft="10dp"
+             android:paddingRight="10dp" />
+
+         <ToggleButton
+             android:id="@+id/toggleButton1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="14dp"
+             android:checked="false"
+             android:minWidth="200dp"
+             android:textOff="TRY TO SAY ANY CHINESE WORDS THAT USE THIS CHARACTER: "
+             android:textOn="LISTENING TO CHINESE..."
+             android:textSize="15dp" />
+
+     </TableLayout>
+
+     <CheckBox
+         android:id="@+id/checkBoxToneColorsCharacterClassrom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+        
+         android:layout_toRightOf="@+id/checkBoxRandom"
+         android:text="Tone Colours" />
+
+     <Button
+         android:id="@+id/buttonNextCharacterClassroom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_toRightOf="@+id/checkBoxToneColorsCharacterClassrom"
+         android:width="150dp"
+        
+         android:text="Next" />
+      
+     <CheckBox
+         android:id="@+id/checkBoxRandom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/tableForVocabLists"
+         android:layout_alignParentTop="true"
+         android:onClick="randomNum"
+         android:text="Random " />
+
+     <EditText
+         android:id="@+id/editPinyinCharacterClassroom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/tableForVocabLists"
+         android:layout_alignParentBottom="true"
+         android:layout_toLeftOf="@+id/checkBoxToneColorsCharacterClassrom"
+         android:ems="10" />
+
+     <Button
+         android:id="@+id/buttonTranslateSentenceClassroom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentRight="true"
+         android:onClick="pinyinConvert"
+         android:text="Convert To Pinyin\nex: wo3 = wǒ" />
+
+ 
+</RelativeLayout>

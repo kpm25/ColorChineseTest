@@ -1,0 +1,693 @@
+vocablisttitle:, 241.102_nine
+chinesevocab:,看
+englishvocab:,V. to look; to watch
+pinyinvocab:,kàn
+chinesevocab:,电影 
+englishvocab:,N. movie; film  
+pinyinvocab:,diàn yǐng
+chinesevocab:,早 
+englishvocab:,Adj. early 
+pinyinvocab:,zǎo 
+chinesevocab:,起床
+englishvocab:,V. to get up  
+pinyinvocab:,qǐ chuáng 
+chinesevocab:,晚
+englishvocab:,Adj. late  
+pinyinvocab:,wǎn 
+chinesevocab:,晚上 
+englishvocab:,N. evening  
+pinyinvocab:,wǎn shang 
+chinesevocab:,睡觉 
+englishvocab:,V. to go to bed
+pinyinvocab:,shuì jiào
+chinesevocab:,电视
+englishvocab:,N. television   
+pinyinvocab:,diàn shì 
+chinesevocab:,晚饭 
+englishvocab:,N. dinner 
+pinyinvocab:,wǎn fàn 
+chinesevocab:,计划 
+englishvocab:,N.&V. plan; to plan
+pinyinvocab:,jì huà  
+chinesevocab:,早饭
+englishvocab:,N. breakfast
+pinyinvocab:,zǎo fàn 
+chinesevocab:,东西 
+englishvocab:,N.  things
+pinyinvocab:,dōng xi 
+chinesevocab:,本
+englishvocab:,M.W. for books 
+pinyinvocab:,běn 
+chinesevocab:,书 
+englishvocab:,N. book
+pinyinvocab:,shū
+chinesevocab:,中午
+englishvocab:, N. noon
+pinyinvocab:,zhōng wǔ 
+chinesevocab:,回家
+englishvocab:, V. to go home 
+pinyinvocab:,huí jiā
+vocablisttitle:, 241.102_ten
+chinesevocab:,事儿 
+englishvocab:,N. matter; things; business
+pinyinvocab:,shì er 
+chinesevocab:,想 
+englishvocab:,V. to want; to intend to
+pinyinvocab:,xiǎng     
+chinesevocab:,请 
+englishvocab:,V. to invite
+pinyinvocab:,qǐng 
+chinesevocab:,玩儿 
+englishvocab:, V. to play for fun 
+pinyinvocab:,wán er 
+chinesevocab:,住  
+englishvocab:, V. to live; to stay
+pinyinvocab:,zhù 
+chinesevocab:,哪儿 
+englishvocab:, Pron. where   
+pinyinvocab:,nǎ er  
+chinesevocab:,离 
+englishvocab:, Prep. away from  
+pinyinvocab:,lí 
+chinesevocab:,这儿  
+englishvocab:, Pron. here 
+pinyinvocab:,zhè er
+chinesevocab:,远 
+englishvocab:,Adj. far
+pinyinvocab:,yuǎn  
+chinesevocab:,车 
+englishvocab:, N. car; vehicle 
+pinyinvocab:,chē  
+chinesevocab:,就 
+englishvocab:, AdV. just;   precisely 
+pinyinvocab:,jiù    
+chinesevocab:,旁边
+englishvocab:, N. beside 
+pinyinvocab:,páng biān 
+chinesevocab:,对面  
+englishvocab:,N. oppsite
+pinyinvocab:,duì miàn  
+chinesevocab:,坐  
+englishvocab:,V.  to take; to sit  
+pinyinvocab:,zuò  
+chinesevocab:,公共汽车  
+englishvocab:,N.  bus
+pinyinvocab:,gōng gòng qì chē 
+vocablisttitle:, 241.102_eleven
+chinesevocab:,喂 
+englishvocab:,Int. (phone greeting word) 
+pinyinvocab:,wéi   
+chinesevocab:,打 
+englishvocab:,V. to make a phone call  
+pinyinvocab:,dǎ  
+chinesevocab:,错
+englishvocab:,Adj. wrong  
+pinyinvocab:,cuò  
+chinesevocab:,等 
+englishvocab:,V. to wait 
+pinyinvocab:,děng  
+chinesevocab:,一下儿 
+englishvocab:,Adv. (denotes a brief action)
+pinyinvocab:,yí xià er     
+chinesevocab:,叫  
+englishvocab:,V. to get sb (on the phone)
+pinyinvocab:,jiào  
+chinesevocab:,嘞  
+englishvocab:,Int. (a pleasant confirmation)
+pinyinvocab:,lei  
+chinesevocab:,正在  
+englishvocab:,Adv. (indicating an action in progress)
+pinyinvocab:,zhèng zài  
+chinesevocab:,找  
+englishvocab:,V.to look for; to speak to 
+pinyinvocab:,zhǎo   
+chinesevocab:,电子邮件 
+englishvocab:, N.  email
+pinyinvocab:,diàn zǐ yóu jiàn       
+chinesevocab:,生日  
+englishvocab:,N. birthday
+pinyinvocab:,shēng rì  
+chinesevocab:,怎么 
+englishvocab:,Pron. how 
+pinyinvocab:,zěn me 
+chinesevocab:, 开车  
+englishvocab:,V. to drive car
+pinyinvocab:,kāi chē  
+chinesevocab:,哥儿们  
+englishvocab:,N. (colloquial ) a male friend 
+pinyinvocab:,gē er men 
+chinesevocab:,电话  
+englishvocab:,N. telephone
+pinyinvocab:,diàn huà  
+chinesevocab:,问 
+englishvocab:,V.  to ask 
+pinyinvocab:,wèn  
+chinesevocab:,给 
+englishvocab:,V.  Prep. to give to; for
+pinyinvocab:,gěi  
+chinesevocab:,可是 
+englishvocab:,Conj. but 
+pinyinvocab:,kě shì 
+vocablisttitle:, 241.102_twelve
+chinesevocab:,喝  
+englishvocab:,V. to drink
+pinyinvocab:,hē  
+chinesevocab:,茶 
+englishvocab:, N. tea 
+pinyinvocab:,chá   
+chinesevocab:,还是 
+englishvocab:,Conj. or 
+pinyinvocab:,hái shì 
+chinesevocab:,咖啡 
+englishvocab:,  N. coffee 
+pinyinvocab:,kā fēi
+chinesevocab:,杯 
+englishvocab:,  N. cup  
+pinyinvocab:,bēi
+chinesevocab:,饭馆儿  
+englishvocab:, N. restaurant 
+pinyinvocab:,fàn guǎn er
+chinesevocab:,盘 
+englishvocab:, N. plate 
+pinyinvocab:,pán
+chinesevocab:,好吃  
+englishvocab:,Adj. delicious 
+pinyinvocab:,hǎo chī 
+chinesevocab:,饺子 
+englishvocab:, N. dumpling 
+pinyinvocab:,jiǎo zi
+chinesevocab:,过 
+englishvocab:,Part. (experiential marker) 
+pinyinvocab:,guò 
+chinesevocab:,炒面  
+englishvocab:, N. fried noodles 
+pinyinvocab:,chǎo miàn
+chinesevocab:,炒饭 
+englishvocab:, N. fried rice 
+pinyinvocab:,chǎo fàn
+chinesevocab:,来  
+englishvocab:, V. to want  (when ordering dishes)
+pinyinvocab:,lái  
+chinesevocab:,汤 
+englishvocab:, N.  soup
+pinyinvocab:,tāng 
+chinesevocab:,碗
+englishvocab:,  N. bowl 
+pinyinvocab:,wǎn 
+chinesevocab:,甜点
+englishvocab:,N. dessert
+pinyinvocab:,tián diǎn  
+chinesevocab:,西瓜 
+englishvocab:, N. watermelon 
+pinyinvocab:,xī guā  
+chinesevocab:,冰淇淋  
+englishvocab:,N. icecream
+pinyinvocab:,bīng qí lín  
+chinesevocab:,又  yòu 
+englishvocab:,Adv. again 
+vocablisttitle:, 241.102_thirteen
+chinesevocab:,周末
+englishvocab:, N. weekend 
+pinyinvocab:,zhōu mò
+chinesevocab:,每 
+englishvocab:, Pron. every, each 
+pinyinvocab:,měi 
+chinesevocab:,洗 
+englishvocab:,  V. to wash 
+pinyinvocab:,xǐ
+chinesevocab:,衣服  
+englishvocab:, N. clothing 
+pinyinvocab:,yī fu
+chinesevocab:,洗衣服  
+englishvocab:, V. do the laundry 
+pinyinvocab:,xǐ yī fu
+chinesevocab:,有的时候 
+englishvocab:, Adv. sometimes
+pinyinvocab:,yǒu de shí hou 
+chinesevocab:,天气 
+englishvocab:, N. weather 
+pinyinvocab:,tiān qì
+chinesevocab:,的时候
+englishvocab:, Adv. when….
+pinyinvocab:,de shí hou 
+chinesevocab:,运动
+englishvocab:,  V. sports 
+pinyinvocab:,yùn dòng
+chinesevocab:,篮球
+englishvocab:,N. basket ball 
+pinyinvocab:,lán qiú 
+chinesevocab:,游泳 
+englishvocab:,V. to swim 
+pinyinvocab:,yóu yǒng 
+chinesevocab:,阴天
+englishvocab:, N. overcast weather
+pinyinvocab:,yīn tiān 
+chinesevocab:,下雨  
+pinyinvocab:,xià yǔ V. to rain 
+chinesevocab:,打工 
+englishvocab:, V. to work partime 
+pinyinvocab:,dǎ gōng 
+chinesevocab:,蛋糕 
+englishvocab:, N. cake 
+pinyinvocab:,dàn gāo 
+chinesevocab:,送
+englishvocab:,  V. to give 
+pinyinvocab:,sòng 
+chinesevocab:,岁 
+englishvocab:,N. …years old 
+pinyinvocab:,suì 
+chinesevocab:,但是  
+englishvocab:,Conj. but 
+pinyinvocab:,dàn shì 
+vocablisttitle:, 241.102_fourteen
+chinesevocab:, 知道
+englishvocab:,V.  to know to be aware of
+pinyinvocab:,zhī dào  
+chinesevocab:, 手机
+englishvocab:, N. mobile phone
+pinyinvocab:,shǒu jī 
+chinesevocab:, 号码
+englishvocab:,N. phone number 
+pinyinvocab:,hào mǎ 
+chinesevocab:, 最好
+englishvocab:,Adv.  had better
+pinyinvocab:,zuì hǎo  
+chinesevocab:,发 
+englishvocab:,V. to send (a text message)
+pinyinvocab:,fā
+chinesevocab:, 短信
+englishvocab:, N. text message  
+pinyinvocab:,duǎn xìn 
+chinesevocab:, 什么时候 
+englishvocab:, Adv. when what time 
+pinyinvocab:,shén me shí hou
+chinesevocab:, 礼物 
+englishvocab:, N. Present gift 
+pinyinvocab:,lǐ wù
+chinesevocab:, 男
+englishvocab:, N. male 
+pinyinvocab:,nán 
+chinesevocab:, 宿舍
+englishvocab:, N. dormitory 
+pinyinvocab:,sù shè 
+chinesevocab:, 让
+englishvocab:, V. to ask sb to do sth
+pinyinvocab:,ràng 
+chinesevocab:, 可以
+englishvocab:, Aux. can may
+pinyinvocab:,kě yǐ 
+chinesevocab:, 过 
+englishvocab:, V. to celebrate birthday/festivals
+pinyinvocab:,guò 
+chinesevocab:, 女
+englishvocab:, N. female 
+pinyinvocab:,nǚ 
+chinesevocab:, 生日会
+englishvocab:, N. birthday party
+pinyinvocab:,shēng rì huì
+chinesevocab:, 忘
+englishvocab:, V. to forget
+pinyinvocab:,wàng 
+chinesevocab:, 认识
+englishvocab:, V. to get to know sb 
+pinyinvocab:,rèn shi  
+vocablisttitle:, 241.102_fifteen
+chinesevocab:,好久不见  
+englishvocab:,long time no see 
+pinyinvocab:,hǎo jiǔ bú jiàn  
+chinesevocab:,学期 
+englishvocab:,N. semester
+pinyinvocab:,xué qī      
+chinesevocab:,门
+englishvocab:,M.W measure word for language 
+pinyinvocab:,mén 
+chinesevocab:,专业 
+englishvocab:,N. major 
+pinyinvocab:,zhuān yè  
+chinesevocab:,会计 
+englishvocab:,N. accounting; accountant 
+pinyinvocab:,kuài jì 
+chinesevocab:,为什么 
+englishvocab:,Pron. why
+pinyinvocab:,wèi shén me 
+chinesevocab:,因为 
+englishvocab:,Conj. because 
+pinyinvocab:,yīn wèi  
+chinesevocab:,有用 
+englishvocab:,A. useful 
+pinyinvocab:,yǒu yòng 
+chinesevocab:,难 
+englishvocab:,A. difficult
+pinyinvocab:,nán  
+chinesevocab:,口语
+englishvocab:,N. spoken language
+pinyinvocab:,kǒu yǔ  
+chinesevocab:,就要了 
+englishvocab:,…soon 
+pinyinvocab:,jiù yào le   
+chinesevocab:,教育  
+englishvocab:,N. education
+pinyinvocab:,jiào yù   
+chinesevocab:,教育  
+englishvocab:,V. to educate
+pinyinvocab:,jiào yù  
+chinesevocab:,考试 
+englishvocab:,N. V. exam to take exam
+pinyinvocab:,kǎo shì  
+chinesevocab:,哪年 
+englishvocab:,in what year  
+pinyinvocab:,nǎ nián  
+chinesevocab:,毕业 
+englishvocab:,V. graduate
+pinyinvocab:,bì yè  
+chinesevocab:,明年  
+englishvocab:,N. next year
+pinyinvocab:,míng nián  
+chinesevocab:,现在 
+englishvocab:,N. now; currently
+pinyinvocab:,xiàn zài 
+chinesevocab:,健身房  
+englishvocab:,N. gym 
+pinyinvocab:,jiàn shēn fáng
+chinesevocab:,觉得 
+englishvocab:,V. to think; to feel 
+pinyinvocab:,jué de 
+vocablisttitle:, 241.102_sixteen
+chinesevocab:,穿  
+englishvocab:,V. to put on  
+pinyinvocab:,chuān 
+chinesevocab:,颜色 
+englishvocab:,N.  color 
+pinyinvocab:,yán sè 
+chinesevocab:,好看 
+englishvocab:,Adj. good looking 
+pinyinvocab:,hǎo kàn   
+chinesevocab:,喜欢 
+englishvocab:,V. to like  
+pinyinvocab:,xǐ huan 
+chinesevocab:,红 
+englishvocab:,Adj. red 
+pinyinvocab:,hóng 
+chinesevocab:,红色 
+englishvocab:,N. red color 
+pinyinvocab:,hóng sè 
+chinesevocab:,黑  
+englishvocab:,Adj. black
+pinyinvocab:,hēi  
+chinesevocab:,黑色 
+englishvocab:,N. black color  
+pinyinvocab:,hēi sè 
+chinesevocab:,白  
+englishvocab:,Adj. white
+pinyinvocab:,bái  
+chinesevocab:,白色  
+englishvocab:,N. white color
+pinyinvocab:,bái sè  
+chinesevocab:,条 
+englishvocab:,M.W. (measure word for tie)
+pinyinvocab:,tiáo  
+chinesevocab:,蓝 
+englishvocab:,Adj. blue
+pinyinvocab:,lán  
+chinesevocab:,蓝色 
+englishvocab:,N. Blue color 
+pinyinvocab:,lán sè
+chinesevocab:,领带 
+englishvocab:,N. necktie 
+pinyinvocab:,lǐng dài  
+chinesevocab:,祝  
+englishvocab:,V. Wish 
+pinyinvocab:,zhù  
+chinesevocab:,快乐
+englishvocab:,Adj. happy  
+pinyinvocab:,kuài lè 
+chinesevocab:,看到 
+englishvocab:,V. To see 
+pinyinvocab:,kàn dao 
+chinesevocab:,客气  
+englishvocab:,Adj. polite
+pinyinvocab:,kè qi  
+chinesevocab:,不客气  
+englishvocab:,You are welcome 
+pinyinvocab:,bú kè qi  
+chinesevocab:,高兴 
+englishvocab:,Adj. Happy; delighted
+pinyinvocab:,gāo xìng  
+chinesevocab:,一定  
+englishvocab:,Adv. surely 
+pinyinvocab:,yí dìng 
+chinesevocab:,帅 
+englishvocab:,Adj. handsome 
+pinyinvocab:,shuài
+vocablisttitle:, Fruit
+chinesevocab:,桃
+englishvocab:,Peach	
+pinyinvocab:,táo 
+chinesevocab:,草莓
+englishvocab:,Strawberry	
+pinyinvocab:,cǎo méi 
+chinesevocab:,苹果
+englishvocab:,Apple	
+pinyinvocab:,píng guǒ 
+chinesevocab:,梨
+englishvocab:,Pear
+pinyinvocab:,lí	
+chinesevocab:,香蕉
+englishvocab:,Banana	
+pinyinvocab:,xiāng jiāo 
+chinesevocab:,西瓜
+englishvocab:,Watermelon	
+pinyinvocab:,xī guā 
+chinesevocab:,菠萝
+englishvocab:,Pineapple	
+pinyinvocab:,bō luó 
+chinesevocab:,橘子
+englishvocab:,Orange	
+pinyinvocab:,jú zi 
+chinesevocab:,葡萄
+englishvocab:,Grape
+pinyinvocab:,pú táo	
+chinesevocab:,樱桃
+englishvocab:,cherry
+pinyinvocab:,yīng táo
+vocablisttitle:, MyOwnList	 
+chinesevocab:,参加
+englishvocab:,join; attend; take part in
+pinyinvocab:,cān jiā
+chinesevocab:,设计师
+englishvocab:,designer
+pinyinvocab:,shè jì shī
+chinesevocab:,凯伦
+englishvocab:,Kieran
+pinyinvocab:,Kǎi lún
+vocablisttitle:,Sports
+chinesevocab:,橄榄球
+englishvocab:,rugby
+pinyinvocab:,gǎn lǎn qiú
+chinesevocab:,足球
+englishvocab:,soccer
+pinyinvocab:,zú qiú
+chinesevocab:,曲棍球
+englishvocab:,hockey
+pinyinvocab:,qū gùn qiú
+chinesevocab:,网球
+englishvocab:,tennis
+pinyinvocab:,wǎng qiú
+chinesevocab:,篮球
+englishvocab:,basketball
+pinyinvocab:,lán qiú
+chinesevocab:,板球运动
+englishvocab:,Cricket; the sport
+pinyinvocab:,bǎn qiú yùn dòng
+vocablisttitle:,Animals
+chinesevocab:,动物园
+englishvocab:,zoo		
+pinyinvocab:,dòng wù yuán 
+chinesevocab:,鸟	
+englishvocab:,bird
+pinyinvocab:,niǎo 
+chinesevocab:,鹅	
+englishvocab:,goose
+pinyinvocab:,é 
+chinesevocab:,鸭子
+englishvocab:,duck
+pinyinvocab:,yā zǐ 
+chinesevocab:,鱼	
+englishvocab:,fish
+pinyinvocab:,yú 
+chinesevocab:,金鱼
+englishvocab:,goldfish
+pinyinvocab:,jīn yú   
+chinesevocab:,猫	
+englishvocab:,cat
+pinyinvocab:,māo 
+chinesevocab:,熊	
+englishvocab:,bear
+pinyinvocab:,xióng 
+chinesevocab:,熊猫
+englishvocab:,panda
+pinyinvocab:,xióng māo 
+chinesevocab:,袋鼠	
+englishvocab:,kangaroo
+pinyinvocab:,dài shǔ 
+chinesevocab:,狮子	
+englishvocab:,lion
+pinyinvocab:,shī zǐ 
+chinesevocab:,大象
+englishvocab:,elephant
+pinyinvocab:,dà xiàng 
+chinesevocab:,斑马	
+englishvocab:,zebra
+pinyinvocab:,bān mǎ 
+chinesevocab:,鹿	
+englishvocab:,deer
+pinyinvocab:,lù 
+chinesevocab:,长颈鹿
+englishvocab:,giraffe
+pinyinvocab:,cháng jǐng lù 
+chinesevocab:,老鼠	
+englishvocab:,mouse
+pinyinvocab:,lǎo shǔ 
+chinesevocab:,老牛	
+englishvocab:,cow
+pinyinvocab:,lǎo niú 
+chinesevocab:,老虎	
+englishvocab:,tiger
+pinyinvocab:,lǎo hǔ 
+chinesevocab:,兔子	
+englishvocab:,rabbit
+pinyinvocab:,tù zǐ 
+chinesevocab:,龙	
+englishvocab:,dragon
+pinyinvocab:,lóng 
+chinesevocab:,蛇	
+englishvocab:,snake
+pinyinvocab:,shé 
+chinesevocab:,马	
+englishvocab:,horse
+pinyinvocab:,mǎ 
+chinesevocab:,羊	
+englishvocab:,sheep
+pinyinvocab:,yáng 
+chinesevocab:,猴子	
+englishvocab:,monkey
+pinyinvocab:,hóu zǐ 
+chinesevocab:,鸡	
+englishvocab:,chicken
+pinyinvocab:,jī 
+chinesevocab:,狗	
+englishvocab:,dog
+pinyinvocab:,gǒu 
+chinesevocab:,猪	
+englishvocab:,pig
+pinyinvocab:,zhū
+vocablisttitle:,Colors
+chinesevocab:,红色
+englishvocab:,red	
+pinyinvocab:,hóng sè 
+chinesevocab:,绿色
+englishvocab:,green	
+pinyinvocab:,lǜ sè 
+chinesevocab:,黑色
+englishvocab:,black	
+pinyinvocab:,hēi sè 
+chinesevocab:,白色
+englishvocab:,white
+pinyinvocab:,bái sè 
+chinesevocab:,黄色
+englishvocab:,yellow
+pinyinvocab:,huáng sè 
+chinesevocab:,紫色
+englishvocab:,purple	
+pinyinvocab:,zǐ sè 
+chinesevocab:,灰色
+englishvocab:,gray	
+pinyinvocab:,huī sè 
+chinesevocab:,茶色
+englishvocab:,brown
+pinyinvocab:,chá sè 
+chinesevocab:,棕色 
+englishvocab:,brown
+pinyinvocab:,zōng sè   
+chinesevocab:,咖啡色
+englishvocab:,coffee color	
+pinyinvocab:,kā fēi sè 
+chinesevocab:,金色
+englishvocab:,gold color
+pinyinvocab:,jīn sè 
+chinesevocab:,粉色
+englishvocab:,pink
+pinyinvocab:,fěn sè 
+chinesevocab:,银色
+englishvocab:,silver color	
+pinyinvocab:,yín sè 
+chinesevocab:,橘色
+englishvocab:,orange color
+pinyinvocab:,jú sè 
+chinesevocab:,橙色
+englishvocab:,orange color	
+pinyinvocab:,chéng sè 
+chinesevocab:,米色
+englishvocab:,beige	
+pinyinvocab:,mǐ sè 
+chinesevocab:,颜色
+englishvocab:,colors	
+pinyinvocab:,yán sè 
+chinesevocab:,蓝色
+englishvocab:,blue
+pinyinvocab:,lán sè
+chinesevocab:,彩虹的颜色
+englishvocab:,rainbow colored
+pinyinvocab:,cǎi hóng de yán sè
+vocablisttitle:,Vegetables
+chinesevocab:,蕃茄	
+englishvocab:,Tomato  
+pinyinvocab:,fān qiā
+chinesevocab:,南瓜	
+englishvocab:,Pumpkin    
+pinyinvocab:,nán guā
+chinesevocab:,黃瓜	
+englishvocab:,Cucumber    
+pinyinvocab:,huáng guā
+vocablisttitle:,Insects
+chinesevocab:,瓢虫
+englishvocab:,Ladybird
+pinyinvocab:,piáo chóng
+chinesevocab:,蜘蛛
+englishvocab:,Spider
+pinyinvocab:,zhī zhū
+chinesevocab:,祈祷螳螂
+englishvocab:,Praying Mantis
+pinyinvocab:,qí dǎo táng láng
+chinesevocab:,蝎
+englishvocab:,Scorpion
+pinyinvocab:,xiē
+chinesevocab:,蠕虫
+englishvocab:,Worm
+pinyinvocab:,rú chóng
+vocablisttitle:,Countries
+chinesevocab:,中国
+englishvocab:,China 
+pinyinvocab:,zhōng guó
+chinesevocab:,日本
+englishvocab:,Japan    
+pinyinvocab:,rì běn
+chinesevocab:,新西兰
+englishvocab:,New Zealand 
+pinyinvocab:,xīn xī lán
+chinesevocab:,澳大利亚
+englishvocab:,Australia   
+pinyinvocab:,ào dà lì yǎ
+chinesevocab:,美国
+englishvocab:,United States of America    
+pinyinvocab:,měi guó.
+vocablisttitle:,Household_Items
+chinesevocab:,桌子
+englishvocab:,Table
+pinyinvocab:,zhuō zi
+chinesevocab:,课桌
+englishvocab:,Desk
+pinyinvocab:,kè zhuō
+chinesevocab:,电冰箱
+englishvocab:,Refridgerator
+pinyinvocab:,diàn bīng xiāng

@@ -1,0 +1,817 @@
+sentencelisttitle:, Quizlet_one
+englishsentence:, Hello! 
+chinesesentence:, 你好！
+pinyinsentence:,Nǐ hǎo! 
+englishsentence:, I am a teacher.   
+chinesesentence:, 我是老师。  
+pinyinsentence:,Wǒ shì lǎo shī.
+englishsentence:, My name is Ding Shui. 
+pinyinsentence:,Wǒ jiào Dīng Shuǐ.  
+chinesesentence:, 我叫丁水。  
+englishsentence:,  Are you a student?
+chinesesentence:, 你是学生吗？     
+pinyinsentence:,Nǐ shì xué sheng ma?
+englishsentence:,  I am not a student.     
+chinesesentence:,  我不是学生。    
+pinyinsentence:,Wǒ bú shì xué sheng. 
+englishsentence:,  Is he a student, too? 
+chinesesentence:, 他也是学生吗？    
+pinyinsentence:,Tā yě shì xué sheng ma?
+englishsentence:,  And you?     
+chinesesentence:, 你呢？    
+pinyinsentence:,nǐ ne? 
+sentencelisttitle:, Quizlet_two
+englishsentence:,What is your surname? 
+chinesesentence:,你姓什么？ 
+pinyinsentence:,Nǐ xìng shén me?
+englishsentence:,He is my friend.
+chinesesentence:,他是我的朋友。
+pinyinsentence:,Tā shì wǒ de péng yǒu.
+englishsentence:,He is an American.
+chinesesentence:,他是美国人。
+pinyinsentence:,Tā shì měi guó rén.
+englishsentence:,I am Chinese. 
+chinesesentence:,我是中国人。
+pinyinsentence:,Wǒ shì zhōng guó rén.
+sentencelisttitle:, Quizlet_nine
+englishsentence:, to watch movie
+chinesesentence:, 看电影
+pinyinsentence:,kàn diàn yǐng.
+englishsentence:, to get up at seven o'clock
+chinesesentence:, 七点起床 
+pinyinsentence:,qī diǎn qǐ chuáng.
+englishsentence:, What time will we go?
+chinesesentence:, 我们几点钟去？ 
+pinyinsentence:,Wǒ men jǐ diǎn zhōng qù?
+englishsentence:, You came too late.
+chinesesentence:, 你来得太晚了
+pinyinsentence:,Nǐ lái dé tài wǎn le.
+englishsentence:, Have you had your breakfast?
+chinesesentence:, 你吃早饭了吗？
+pinyinsentence:,Nǐ chī zǎo fàn le ma?
+englishsentence:, See you at five o'clock tomorrow.
+chinesesentence:, 明天五点见。
+pinyinsentence:,Míng tiān wǔ diǎn jiàn.
+englishsentence:, to go to buy things together
+chinesesentence:,一起去买东西
+pinyinsentence:,yī qǐ qù mǎi dōng xī.
+englishsentence:, a shirt
+chinesesentence:, 一件衬衫 
+pinyinsentence:,yī jiàn chèn shān.
+englishsentence:, a pair of shoes
+chinesesentence:, 一双鞋
+pinyinsentence:,yī shuāng xié.
+englishsentence:, to eat Japanese food
+chinesesentence:, 吃日本饭 
+pinyinsentence:,chī rì běn fàn.
+englishsentence:, to plan to go to watch movie
+chinesesentence:, 计划去看电影
+pinyinsentence:,Jì huà qù kàn diàn yǐng.
+englishsentence:, Sunday
+chinesesentence:, 星期天 
+pinyinsentence:,Xīng qí tiān.
+englishsentence:, too busy
+chinesesentence:, 太忙了
+pinyinsentence:,Tài máng le.
+englishsentence:, What would you like to buy?
+chinesesentence:, 您要买什么？
+pinyinsentence:,Nín yāo mǎi shén me?
+englishsentence:, to go home to sleep
+chinesesentence:, 回家睡觉 
+pinyinsentence:,Huí jiā shuì jiào.
+englishsentence:,  to speak Chinese well
+chinesesentence:, 说中文说得很好
+pinyinsentence:,Shuō zhōng wén shuō dé hěn hǎo.
+englishsentence:, eat too much
+chinesesentence:, 吃得太多了
+pinyinsentence:,Chī dé tài duō le.
+englishsentence:, to write Chinese characters well
+chinesesentence:, 写汉字写得很好
+pinyinsentence:,Xiě hàn zì xiě dé hěn hǎo.
+englishsentence:, watch TV at home
+chinesesentence:,在家看电视
+pinyinsentence:,Zài jiā kàn diàn shì.
+englishsentence:, to go to play at friend's home
+chinesesentence:, 去朋友家玩儿 
+pinyinsentence:,Qù péng yǒu jiā wán er.
+englishsentence:,  the movie's name
+chinesesentence:, 电影的名字
+pinyinsentence:,Diàn yǐng de míng zì.
+englishsentence:, two books
+chinesesentence:, 两本书 
+pinyinsentence:,Liǎng běn shū.
+englishsentence:, tomorrow noon
+chinesesentence:,明天中午 
+pinyinsentence:,Míng tiān zhōng wǔ.
+englishsentence:,  didn't eat dinner
+chinesesentence:,没吃晚饭
+pinyinsentence:,Méi chī wǎn fàn.
+englishsentence:, quarter past seven
+chinesesentence:, 七点一刻
+pinyinsentence:,Qī diǎn yī kè.
+sentencelisttitle:, Quizlet_ten
+englishsentence:, Do you have anything that I can help with?
+chinesesentence:, 你有什么事儿吗？
+pinyinsentence:,Nǐ yǒu shé me shì er ma?
+englishsentence:, My home is not far from here.
+chinesesentence:, 我家离这儿不远。
+pinyinsentence:,Wǒ jiā lí zhè er bù yuǎn.
+englishsentence:, He doesn't have a car. 
+chinesesentence:,他没有车。
+pinyinsentence:,Tā méi yǒu chē.
+englishsentence:,My home is just opposite to the university.
+chinesesentence:, 我家就在大学对面。
+pinyinsentence:,Wǒ jiā jiù zài dà xué duì miàn.
+englishsentence:, My home is just besides the University.
+chinesesentence:, 我家旁边就是梅西大学。
+pinyinsentence:,Wǒ jiā páng biān jiù shì méi xī dà xué.
+englishsentence:, this Saturday afternoon
+chinesesentence:,  这个星期六下午
+pinyinsentence:,Zhè ge xīng qí liù xià wǔ.
+englishsentence:, Where do you live? 
+chinesesentence:, 你住在哪儿？
+pinyinsentence:,Nǐ zhù zài nǎ er?
+englishsentence:, The opposite is a library.
+chinesesentence:,  对面是图书馆。
+pinyinsentence:,Duì miàn shì tú shū guǎn.
+englishsentence:, I go to the university by bus.
+chinesesentence:, 坐公共汽车去大学。
+pinyinsentence:,Zuò gōng gòng qì chē qù dà xué.
+englishsentence:, I want to go to the library.
+chinesesentence:,  我想去图书馆。
+pinyinsentence:,Wǒ xiǎng qù tú shū guǎn.
+englishsentence:, I live in Albany.
+chinesesentence:,  我住在Albany.
+pinyinsentence:,Wǒ zhù zài Albany.
+englishsentence:, don't have time
+chinesesentence:,   没有时间
+pinyinsentence:,Méi yǒu shí jiān.
+englishsentence:, I invite you to come to play at my home.
+chinesesentence:,  我请你来我家玩儿。
+pinyinsentence:,Wǒ qǐng nǐ lái wǒ jiā wán er.
+englishsentence:, I am not too busy.
+chinesesentence:,  我不太忙。
+pinyinsentence:,Wǒ bù tài máng.
+englishsentence:, Massey University library 
+chinesesentence:, 梅西大学图书馆
+pinyinsentence:,Méi xī dà xué tú shū guǎn.
+englishsentence:, ten o'clock in the morning 
+chinesesentence:, 上午十点
+pinyinsentence:,Shàng wǔ shí diǎn.
+englishsentence:, to go to work in the evening
+chinesesentence:,  晚上去工作
+pinyinsentence:,Wǎn shàng qù gōng zuò.
+englishsentence:, I have time in the afternoon 
+chinesesentence:, 下午我有时间
+pinyinsentence:,Xià wǔ wǒ yǒu shí jiān.
+englishsentence:, to go to study at the library 
+chinesesentence:, 去图书馆学习
+pinyinsentence:,Qù tú shū guǎn xué xí.
+englishsentence:, I study Chinese in the afternoon
+chinesesentence:,  下午我学中文
+pinyinsentence:,Xià wǔ wǒ xué zhōng wén.
+englishsentence:, want to watch movie
+chinesesentence:,  想看电影
+pinyinsentence:,Xiǎng kàn diàn yǐng.
+englishsentence:, don't want to eat dinner 
+chinesesentence:, 不想吃晚饭
+pinyinsentence:,Bù xiǎng chī wǎn fàn.
+englishsentence:, American movie 
+chinesesentence:, 美国电影
+pinyinsentence:,Měi guó diàn yǐng.
+englishsentence:, to live in Beijing 
+chinesesentence:, 住在北京
+pinyinsentence:,Zhù zài běi jīng.
+englishsentence:, to live in New Zealand 
+chinesesentence:, 住在新西兰
+pinyinsentence:,Zhù zài xīn xī lán.
+sentencelisttitle:, Quizlet_eleven
+englishsentence:, May I ask who you are after? 
+chinesesentence:, 请问您找谁？
+pinyinsentence:,Qǐng wèn nín zhǎo shuí?
+englishsentence:, I am looking for Ding Shui. 
+chinesesentence:, 我找丁水。
+pinyinsentence:,Wǒ zhǎo dīng shuǐ.
+englishsentence:, Who are you looking for? 
+chinesesentence:, 你找谁？
+pinyinsentence:,Nǐ zhǎo shuí?
+englishsentence:, You dialed a wrong number. 
+chinesesentence:, 你打错了。
+pinyinsentence:,Nǐ dǎ cuò le.
+englishsentence:, write (something) wrong 
+chinesesentence:, 写错了
+pinyinsentence:,Xiě cuò le.
+englishsentence:, please wait for a moment. 
+chinesesentence:, 请等一下。
+pinyinsentence:,Qǐng děng yī xià.
+englishsentence:, I go to get him. 
+chinesesentence:, 我去叫他。
+pinyinsentence:,Wǒ qù jiào tā.
+englishsentence:, He is watching TV. 
+chinesesentence:, 他正在看电视。
+pinyinsentence:,Tā zhèng zài kàn diàn shì.
+englishsentence:, He is studying Chinese. 
+chinesesentence:, 他正在学习中文。
+pinyinsentence:,Tā zhèng zài xué xí zhōng wén.
+englishsentence:, Is Li Wen at home or not? 
+chinesesentence:, 李文在不在家？
+pinyinsentence:,Lǐ wén zài bù zài jiā?
+englishsentence:, Is Li Wen in or not? 
+chinesesentence:, 李文在不在？
+pinyinsentence:,Lǐ wén zài bù zài?
+englishsentence:, What are you busy with? 
+chinesesentence:, 你在忙什么呢？
+pinyinsentence:,Nǐ zài máng shén me ne?
+englishsentence:, I am writing Chinese characters. 
+chinesesentence:, 我在写汉字呢。
+pinyinsentence:,Wǒ zài xiě hàn zì ní.
+englishsentence:, I am eating. 
+chinesesentence:, 我正在吃饭。
+pinyinsentence:,Wǒ zhèng zài chī fàn.
+englishsentence:, I can give you a ride. 
+chinesesentence:, 你坐我的车。
+pinyinsentence:,Nǐ zuò wǒ de chē.
+englishsentence:, We go together. 
+chinesesentence:, 我们一起去。
+pinyinsentence:,Wǒ men yī qǐ qù.
+englishsentence:, Who are you calling?
+chinesesentence:, 你在给谁打电话？
+pinyinsentence:,Nǐ zài gěi shuí dǎ diàn huà?
+englishsentence:, I am calling my dad. 
+chinesesentence:, 我在给爸爸打电话。
+pinyinsentence:,Wǒ zài gěi bà ba dǎ diàn huà.
+englishsentence:, How do you plan to go? 
+chinesesentence:, 你计划怎么去？
+pinyinsentence:,Nǐ jì huà zěn me qù?
+englishsentence:, I drive well. 
+chinesesentence:, 我开车开得很好。
+pinyinsentence:,Wǒ kāi chē kāi dé hěn hǎo.
+englishsentence:, Do you have a phone? 
+chinesesentence:, 你有电话吗？
+pinyinsentence:,Nǐ yǒu diàn huà ma?
+englishsentence:, I really want to go to library to study. 
+chinesesentence:, 我很想去图书馆学习。
+pinyinsentence:,Wǒ hěn xiǎng qù tú shū guǎn xué xí.
+englishsentence:, His home is far away. 
+chinesesentence:,他的家很远。
+pinyinsentence:,Tā de jiā hěn yuǎn.
+englishsentence:, His home is far away from here. 
+chinesesentence:, 他的家离这儿很远。
+pinyinsentence:,Tā de jiā lí zhè er hěn yuǎn.
+englishsentence:, I give Li Wen a ride to the university. 
+chinesesentence:, 李文坐我的车去大学。
+pinyinsentence:,Lǐ wén zuò wǒ de chē qù dà xué.
+englishsentence:, I went on a wrong bus. 
+chinesesentence:, 我坐错了公共汽车。
+pinyinsentence:,Wǒ zuò cuò  le gōng gòng qì chē.
+englishsentence:, I wrote a character wrong. 
+chinesesentence:, 我写错了一个汉字。
+pinyinsentence:,Wǒ xiě cuò le yī gè hàn zì.
+englishsentence:, I read a character wrong. 
+chinesesentence:, 我看错了一个汉字。
+pinyinsentence:,Wǒ kàn cuò le yī gè hàn zì.
+englishsentence:, I want to have a look. 
+chinesesentence:, 我想看一下。
+pinyinsentence:,Wǒ xiǎng kàn yī xià.
+englishsentence:, What are you looking at?
+chinesesentence:, 你在看什么呢？
+pinyinsentence:,Nǐ zài kàn shén me ne?
+sentencelisttitle:,Quizlet_twelve
+englishsentence:, to eat dumplings 
+chinesesentence:, 吃饺子
+pinyinsentence:,Chī jiǎo zi.
+englishsentence:, to drink soup 
+chinesesentence:, 喝汤
+pinyinsentence:,Hē tāng.
+englishsentence:, to drink tea 
+chinesesentence:, 喝茶
+pinyinsentence:,Hē chá.
+englishsentence:, to drink coffee 
+chinesesentence:, 喝咖啡
+pinyinsentence:,Hē kā fēi.
+englishsentence:, the chao mian is really delicious 
+chinesesentence:, 炒面很好吃
+pinyinsentence:,Chǎo miàn hěn hào chī.
+englishsentence:, a cup of coffee 
+chinesesentence:, 一杯咖啡
+pinyinsentence:,Yī bēi kā fēi.
+englishsentence:, a plate of dumplings 
+chinesesentence:, 一盘水饺
+pinyinsentence:,Yī pán shuǐ jiǎo.
+englishsentence:, a plate of chao fan 
+chinesesentence:, 一盘炒饭
+pinyinsentence:,Yī pán chǎo fàn.
+englishsentence:, a bowl of soup 
+chinesesentence:, 一碗汤
+pinyinsentence:,Yī wǎn tāng.
+englishsentence:, I want to have watermelon. 
+chinesesentence:, 我要西瓜。
+pinyinsentence:,Wǒ yào xī guā.
+englishsentence:, do you want to have ice cream?
+chinesesentence:, 你要冰淇淋吗？
+pinyinsentence:,Nǐ yào bīng qí lín ma?
+englishsentence:, What soup would you like to have? 
+chinesesentence:, 您要什么汤？
+pinyinsentence:,Nín yào shén me tāng?
+englishsentence:, to go to restaurant for dinner 
+chinesesentence:, 去饭馆吃晚饭。
+pinyinsentence:,Qù fàn guǎn chī wǎn fàn.
+englishsentence:, very delicious 
+chinesesentence:, 很好吃。
+pinyinsentence:,Hěn hào chī.
+englishsentence:, I have eaten chao fan before. 
+chinesesentence:, 我吃过炒饭。
+pinyinsentence:,Wǒ chī guò chǎo fàn.
+englishsentence:, I have not eaten dumplings before. 
+chinesesentence:, 我没吃过饺子。
+pinyinsentence:,Wǒ méi chī guò jiǎo zi.
+englishsentence:, Have you ever drunk coffee? 
+chinesesentence:, 你喝过咖啡吗？
+pinyinsentence:,Nǐ hē guò kā fēi ma?
+englishsentence:, where are we going to have our dinner? 
+chinesesentence:, 我们要去哪儿吃晚饭？
+pinyinsentence:,Wǒ men yào qù nǎ'er chī wǎn fàn?
+englishsentence:, have dinner at home 
+chinesesentence:, 在家吃晚饭。
+pinyinsentence:,Zài jiā chī wǎn fàn.
+englishsentence:, have meal at a restaurant 
+chinesesentence:, 在饭馆吃饭。
+pinyinsentence:,Zài fàn guǎn chī fàn.
+englishsentence:, the restaurant besides my home 
+chinesesentence:, 我家旁边的饭馆。
+pinyinsentence:,Wǒ jiā páng biān de fàn guǎn.
+englishsentence:, Chinese restaurant 
+chinesesentence:, 中国饭馆。
+pinyinsentence:,Zhōng guó fàn guǎn.
+englishsentence:, do you want to drink teak or coffee? 
+chinesesentence:, 你想喝茶还是咖啡？
+pinyinsentence:,Nǐ xiǎng hē chá hái shì kā fēi?
+englishsentence:, What dessert do you want to have?
+chinesesentence:,  您想来点儿什么甜点？
+pinyinsentence:,Nín xiǎng lái diǎn er shén me tián diǎn?
+englishsentence:, He ate another plate of dumplings. 
+chinesesentence:, 他又吃了一盘饺子。
+pinyinsentence:,Tā yòu chī le yī pán jiǎo zi.
+englishsentence:, that waitress 
+chinesesentence:, 那个女服务员。
+pinyinsentence:,Nà gè nǚ fú wù yuán.
+englishsentence:, to go to have meal at a Chinese restaurant 
+chinesesentence:, 去一家中国饭馆吃饭。
+pinyinsentence:,Qù yī jiā zhōng guó fàn guǎn chī fàn.
+englishsentence:, don't want to have dessert 
+chinesesentence:, 不想吃甜点。
+pinyinsentence:,Bù xiǎng chī tián diǎn.
+englishsentence:, I would like to order a plate of dumplings please. 
+chinesesentence:, 请来一盘饺子。
+pinyinsentence:,Qǐng lái yī pán jiǎo zi.
+englishsentence:, What would you like to have?
+chinesesentence:,  您想来点儿什么？
+pinyinsentence:,Nín xiǎng lái diǎn er shén me?
+sentencelisttitle:, Quizlet_thirteen
+englishsentence:, every weekend 
+chinesesentence:, 每个周末
+pinyinsentence:,Měi gè zhōu mò.
+englishsentence:, when the weather is good 
+chinesesentence:, 天气好的时候
+pinyinsentence:,Tiān qì hǎo de shí hòu.
+englishsentence:, sleep at home 
+chinesesentence:, 在家睡觉
+pinyinsentence:,Zài jiā shuì jiào.
+englishsentence:, to go to restaurant to do part time work 
+chinesesentence:, 去饭馆打工
+pinyinsentence:,Qù fàn guǎn dǎ gōng.
+englishsentence:, birthday cake 
+chinesesentence:, 生日蛋糕
+pinyinsentence:,Shēng rì dàn gāo.
+englishsentence:, this Saturday afternoon 
+chinesesentence:, 这个星期六下午
+pinyinsentence:,Zhè ge xīng qí liù xià wǔ.
+englishsentence:, tomorrow morning （before 9 am) 
+chinesesentence:, 明天早上
+pinyinsentence:,Míng tiān zǎo shang.
+englishsentence:, twenty one years old 
+chinesesentence:, 二十一岁
+pinyinsentence:,èr shí yī suì.
+englishsentence:, to bake cake at home 
+chinesesentence:, 在家做蛋糕
+pinyinsentence:,Zài jiā zuò dàn gāo.
+englishsentence:, to give my good friend a birthday cake 
+chinesesentence:, 送给我的好朋友一个生日蛋糕
+pinyinsentence:,Sòng gěi wǒ de hǎo péng yǒu yī gè shēng rì dàn gāo.
+englishsentence:, to do homework 
+chinesesentence:, 做作业
+pinyinsentence:,Zuò zuo yè.
+englishsentence:, to go to do physical exercise 
+chinesesentence:, 去运动
+pinyinsentence:,Qù yùn dòng.
+englishsentence:, to bake a cake 
+chinesesentence:, 做蛋糕
+pinyinsentence:,Zuò dàn gāo.
+englishsentence:, Are you going to do part time work on this Sunday? 
+chinesesentence:, 你这个星期天要去打工吗？
+pinyinsentence:,Nǐ zhè ge xīng qí tiān yào qù dǎ gōng ma?
+englishsentence:, Where does you English teacher live? 
+chinesesentence:, 你的英语老师住在哪里？
+pinyinsentence:,Nǐ de yīng yǔ lǎo shī zhù zài nǎ lǐ?
+englishsentence:, Can you play basketball? 
+chinesesentence:, 你会打篮球吗？
+pinyinsentence:,Nǐ huì dǎ lán qiú ma?
+englishsentence:, Do you do part time work on weekends or not? 
+chinesesentence:, 你周末打不打工？
+pinyinsentence:,Nǐ zhōu mò dǎ bù dǎ gōng?
+englishsentence:, Do you go shopping or go to study on Saturday? 
+chinesesentence:, 这个星期六你去买东西还是去学习？
+pinyinsentence:,Zhè ge xīng qí liù nǐ qù mǎi dōng xī hái shì qù xué xí?
+englishsentence:, What do you do when the weather is not good? 
+chinesesentence:, 天气不好的时候你都做什么？
+pinyinsentence:,Tiān qì bù hǎo de shí hòu nǐ dōu zuò shén me?
+englishsentence:, When it rains, I sleep at home. 
+chinesesentence:, 天气不好的时候，我在家睡觉。
+pinyinsentence:,Tiān qì bù hǎo de shí hòu, wǒ zài jiā shuì jiào.
+englishsentence:, What do you do on weekends? 
+chinesesentence:, 你周末都做什么？
+pinyinsentence:,Nǐ zhōu mò dōu zuò shén me?
+englishsentence:, to give mum a birthday present 
+chinesesentence:, 送给妈妈一件生日礼物
+pinyinsentence:,Sòng gěi mā mā yī jiàn shēng rì lǐ wù.
+englishsentence:, sometimes 
+chinesesentence:, 有的时候
+pinyinsentence:,Yǒu de shí hòu.
+englishsentence:, I sometimes go to the movies with friends. 
+chinesesentence:, 我有的时候跟朋友一起去看电影。
+pinyinsentence:,Wǒ yǒu de shí hòu gēn péng yǒu yī qǐ qù kàn diàn yǐng.
+englishsentence:, I go shopping in the afternoon and watch TV at night. 
+chinesesentence:, 我下午去买东西，晚上看电视。
+pinyinsentence:,Wǒ xià wǔ qù mǎi dōng xī wǎn shàng kàn diàn shì.
+englishsentence:, Do you also study on Saturdays? 
+chinesesentence:, 你星期六也学习吗？
+pinyinsentence:,Nǐ xīng qí liù yě xué xí ma?
+englishsentence:, What do you want to give him for birthday present? 
+chinesesentence:, 你要送给他什么生日礼物？
+pinyinsentence:,Nǐ yào sòng gěi tā shén me shēng rì lǐ wù?
+englishsentence:, My older brother goes to library every Friday.
+chinesesentence:, 我哥哥每个星期五都去图书馆。
+pinyinsentence:,Wǒ gē gē měi gè xīng qí wǔ dōu qù tú shū guǎn.
+englishsentence:, I plan to buy a shirt for my dad. 
+chinesesentence:, 我计划给爸爸买一件衬衫。
+pinyinsentence:,Wǒ jì huà gěi bà ba mǎi yī jiàn chèn shān.
+englishsentence:, I sometimes go to Massey University by bus. 
+chinesesentence:, 我有的时候坐公共汽车去梅西大学。
+pinyinsentence:,Wǒ yǒu de shí hòu zuò gōng gòng qì chē qù méi xī dà xué.
+sentencelisttitle:, Quizlet_fourteen
+englishsentence:, When are you going to China? 
+chinesesentence:, 你什么时候去中国？
+pinyinsentence:,Nǐ shén me shí hòu qù zhōng guó?
+englishsentence:, I want to give him a birthday present. 
+chinesesentence:, 我想送给他一件生日礼物。
+pinyinsentence:,Wǒ xiǎng sòng gěi tā yī jiàn shēng rì lǐ wù.
+englishsentence:, This Sunday is Wang Xiaomei's birthday. 
+chinesesentence:, 这个星期天是王小美的生日。
+pinyinsentence:,Zhè ge xīng qí tiān shì wáng xiǎo měi de shēng rì.
+englishsentence:, May I go with my friend? 
+chinesesentence:,  我可以跟朋友一起去吗？
+pinyinsentence:,Wǒ kě yǐ gēn péng yǒu yī qǐ qù ma?
+englishsentence:, What is your dad's mobile phone number? 
+chinesesentence:,  你爸爸的手机号码是多少？
+pinyinsentence:,Nǐ bà ba de shǒu jī hào mǎ shì duō shǎo?
+englishsentence:, You'd better send him a message. 
+chinesesentence:,  你最好给他发一个短信。
+pinyinsentence:,Nǐ zuì hǎo gěi tā fā yī gè duǎn xìn.
+englishsentence:, When are you going to buy a present for him? 
+chinesesentence:,  你什么时候给他买礼物？
+pinyinsentence:,Nǐ shén me shí hòu gěi tā mǎi lǐ wù?
+englishsentence:, My mobile phone number is 021345890 
+chinesesentence:,  我的手机号码是021345890。
+pinyinsentence:,Wǒ de shǒu jī hào mǎ shì 0 2 1 3 4 5 8 9 0 .
+englishsentence:, He is my boy friend. 
+chinesesentence:,  他是我的男朋友。
+pinyinsentence:,Tā shì wǒ de nán péng yǒu.
+englishsentence:, Can you ask him to call me? 
+chinesesentence:,  你能让他给我打电话吗？
+pinyinsentence:,Nǐ néng ràng tā gěi wǒ dǎ diàn huà ma?
+englishsentence:, You are not allowed to speak English when are in Chinese class. 
+chinesesentence:,  你上中文课的时候不可以说英语。
+pinyinsentence:,Nǐ shàng zhōng wén kè de shí hòu bù kě yǐ shuō yīng yǔ.
+englishsentence:, I forget his mobile phone number. 
+chinesesentence:,  我忘了他的手机号码了。
+pinyinsentence:,Wǒ wàng le tā de shǒu jī hào mǎ le.
+englishsentence:, Do you know his girlfriend? 
+chinesesentence:,  你认识他的女朋友吗？
+pinyinsentence:,Nǐ rèn shí tā de nǚ péng yǒu ma?
+englishsentence:,  I am going to celebrate my birthday next Saturday. 
+chinesesentence:,  我下个星期六过生日。
+pinyinsentence:,Wǒ xià gè xīng qí liù guò shēng rì.
+englishsentence:, What is your birthday? 
+chinesesentence:,  你生日是几月几号？
+pinyinsentence:,Nǐ shēng rì shì jǐ yuè jǐ hào?
+englishsentence:, Do you invite friends to your birthday party? 
+chinesesentence:,  你请朋友去你的生日会吗？
+pinyinsentence:,Nǐ qǐng péng yǒu qù nǐ de shēng rì huì ma?
+englishsentence:,  Do you know his mobile phone number? 
+chinesesentence:, 你知道他的手机号码吗？
+pinyinsentence:,Nǐ zhī dào tā de shǒu jī hào mǎ ma?
+englishsentence:, I plan to celebrate my birthday at my Dormitory room. 
+chinesesentence:,  我计划在我宿舍过生日。
+pinyinsentence:,Wǒ jì huà zài wǒ sù shè guò shēng rì.
+englishsentence:,  You'd better call him tomorrow. 
+chinesesentence:, 你最好明天给他打电话。
+pinyinsentence:,Nǐ zuì hǎo míng tiān gěi tā dǎ diàn huà.
+englishsentence:, You'd better send a text message to him this afternoon. 
+chinesesentence:, 你下午最好给他发个短信。
+pinyinsentence:,Nǐ xià wǔ zuì hǎo gěi tā fā gè duǎn xìn.
+englishsentence:, They both are my best mates. 
+chinesesentence:, 他们都是我的哥们儿。
+pinyinsentence:,Tā men dōu shì wǒ dí gē men er.
+englishsentence:,  You are not allowed to make phone calls in class. 
+chinesesentence:, 上课的时候不可以打电话。
+pinyinsentence:,Shàng kè de shí hòu bù kě yǐ dǎ diàn huà.
+englishsentence:, Wang Shan is going to celebrate his 20 year's birthday on Friday. 
+chinesesentence:, 王山星期五要过二十岁生日。
+pinyinsentence:,Wáng shān xīng qí wǔ yào guò èr shí suì shēng rì.
+englishsentence:, He is going to celebrate his birthday at a Japanese restaurant. 
+chinesesentence:, 他要在一家日本饭馆过生日。
+pinyinsentence:,Tā yào zài yī jiā rì běn fàn guǎn guò shēng rì.
+englishsentence:, I am going to buy a birthday present tomorrow afternoon. 
+chinesesentence:, 明天下午我要买一件生日礼物。
+pinyinsentence:,Míng tiān xià wǔ wǒ yāo mǎi yī jiàn shēng rì lǐ wù.
+englishsentence:, I am planning to buy Ding Shui a shirt.
+chinesesentence:,  我计划给丁水买一件衬衫。
+pinyinsentence:,Wǒ jì huà gěi dīng shuǐ mǎi yī jiàn chèn shān.
+englishsentence:, You may go with me to Wang Shan' birthday party.
+chinesesentence:,  你可以跟我一起去王山的生日会。
+pinyinsentence:,Nǐ kě yǐ gēn wǒ yī qǐ qù wáng shān de shēng rì huì.
+englishsentence:, Do you know our Chinese teacher's mobile phone number? 
+chinesesentence:, 你知道我们中文老师的手机号码吗？
+pinyinsentence:,Nǐ zhī dào wǒ men zhōng wén lǎo shī de shǒu jī hào mǎ ma?
+englishsentence:, What is your dormitory room number? 
+chinesesentence:, 你的宿舍号码是多少？
+pinyinsentence:,Nǐ de sù shè hào mǎ shì duō shǎo?
+englishsentence:, When are you going to celebrate your birthday? 
+chinesesentence:, 你什么时候过生日？
+pinyinsentence:,Nǐ shén me shí hòu guò shēng rì?
+sentencelisttitle:, Quizlet_fifteen
+englishsentence:, I am very busy this semester. 
+chinesesentence:, 这个学期我很忙
+pinyinsentence:,Zhè ge xué qí wǒ hěn máng.
+englishsentence:, Why do you want to study Chinese? 
+chinesesentence:, 你为什么想学中文？
+pinyinsentence:,Nǐ wèi shén me xiǎng xué zhōng wén?
+englishsentence:, Because Chinese is very useful. 
+chinesesentence:, 因为中文很有用。
+pinyinsentence:,Yīn wéi zhōng wén hěn yǒu yòng.
+englishsentence:, Why do you study Chinese literature? 
+chinesesentence:, 你为什么想学中国文学？
+pinyinsentence:,Nǐ wèi shén me xiǎng xué zhōng guó wén xué?
+englishsentence:, He thinks writing characters is very difficult.
+chinesesentence:, 他觉得写汉字很难。
+pinyinsentence:,Tā jué dé xiě hàn zì hěn nán.
+englishsentence:, He thinks speaking Chinese is not too hard.
+chinesesentence:, 他觉得说中文不太难。
+pinyinsentence:,Tā jué dé shuō zhōng wén bù tài nán.
+englishsentence:, My younger sister is going to graduate from university in June next year.
+chinesesentence:,  我妹妹明年六月就大学毕业了。
+pinyinsentence:,Wǒ mèi mei míng nián liù yuè jiù dà xué bì yè le.
+englishsentence:, When are you going to graduate?
+chinesesentence:,  你什么时候毕业？
+pinyinsentence:,Nǐ shén me shí hòu bì yè?
+englishsentence:, Wang Wenying studies four courses this semester. 
+chinesesentence:, 王文英这学期学习四门课。
+pinyinsentence:,Wáng wén yīng zhè xué qí xué xí sì mén kè.
+englishsentence:, Zhang Yiduo studies Accountancy at Massey University.
+chinesesentence:,   张一多在梅西学习会计。
+pinyinsentence:,Zhāng yī duō zài méi xī xué xí kuài jì.
+englishsentence:, Wang Wenying Majors in Education .
+chinesesentence:,   王文英学习教育专业。
+pinyinsentence:,Wáng wén yīng xué xí jiào yù zhuān yè.
+englishsentence:, How many courses do you study this semester?
+chinesesentence:,   你这学期学几门课？
+pinyinsentence:,Nǐ zhè xué qí xué jǐ mén kè?
+englishsentence:, What are you busy with?
+chinesesentence:,   你在忙什么？
+pinyinsentence:,Nǐ zài máng shén me?
+englishsentence:, Long time no see.
+chinesesentence:,   好久不见。
+pinyinsentence:,Hǎo jiǔ bú jiàn.
+englishsentence:, My friend studies three courses this semester.
+chinesesentence:,   我朋友这学期学习三门课。
+pinyinsentence:,Wǒ péng yǒu zhè xué qí xué xí sān mén kè.
+My older brother studies three major courses and Chinese.
+chinesesentence:,     我哥哥学习三门专业课和中文课。
+pinyinsentence:,Wǒ gē gē xué xí sān mén zhuān yè kè hé zhōng wén kè.
+englishsentence:, What do you major in?
+chinesesentence:,   你学什么专业？
+pinyinsentence:,Nǐ xué shén me zhuān yè?
+englishsentence:, You major in Computer, why do you study Chinese?
+chinesesentence:,   你学习电脑专业为什么学习中文？
+pinyinsentence:,Nǐ xué xí diàn nǎo zhuān yè wèi shén me xué xí zhōng wén?
+englishsentence:, Is Chinese difficult or not?
+chinesesentence:,  中文难不难？
+pinyinsentence:,Zhōng wén nán bù nán?
+englishsentence:, We have many assignments.
+chinesesentence:,  我们有很多作业
+pinyinsentence:,Wǒ men yǒu hěn duō zuò yè.
+englishsentence:, Do you have lots of tests?
+chinesesentence:,  你有很多考试吗？
+ pinyinsentence:,Nǐ yǒu hěn duō kǎo shì ma?
+englishsentence:, He is going to graduate from university soon.
+chinesesentence:,  他就要大学毕业了。
+pinyinsentence:,Tā jiù yào dà xué bì yè le.
+englishsentence:, He is turning 20 in July.
+chinesesentence:,   他七月就20岁了。
+pinyinsentence:,Tā qī yuè jiù 2 0 suì le.
+englishsentence:, I think this pair of shoes look very nice.
+chinesesentence:,  我觉得这双鞋很好看。
+pinyinsentence:,Wǒ jué dé zhè shuāng xié hěn hǎo kàn.
+englishsentence:, Do you go to work out at the gym?
+chinesesentence:,  你去健身房运动吗？
+pinyinsentence:,Nǐ qù jiàn shēn fáng yùn dòng ma?
+englishsentence:, I have no time to to to the gym.
+chinesesentence:,  我没有时间去健身房。
+pinyinsentence:,wǒ méi yǒu shí jiān qù jiàn shēn fáng.
+englishsentence:, He goes to the gym every Friday evening.
+chinesesentence:, 他每个星期五晚上都去健身房。
+pinyinsentence:,Tā měi gè xīng qí wǔ wǎn shàng dū qù jiàn shēn fáng.
+englishsentence:, Where are you going now?
+chinesesentence:,  你现在去哪里？
+pinyinsentence:,Nǐ xiàn zài qù nǎ lǐ?
+englishsentence:, I am going to the gym with my friends.
+chinesesentence:,  我要跟朋友一起去健身房。
+pinyinsentence:,Wǒ yào gēn péng yǒu yī qǐ qù jiàn shēn fáng.
+englishsentence:, Which majors are useful do you think?
+chinesesentence:,  你觉得什么专业有用？
+pinyinsentence:,Nǐ jué dé shén me zhuān yè yǒu yòng?
+sentencelisttitle:, Quizlet_sixteen
+englishsentence:, I like red.
+chinesesentence:,  我喜欢红色。
+pinyinsentence:,Wǒ xǐ huān hóng sè.
+englishsentence:, He doesn't like blue.
+chinesesentence:,  他不喜欢蓝色。
+pinyinsentence:,Tā bù xǐ huān lán sè.
+englishsentence:, What color shirt do you like?
+chinesesentence:,  你喜欢什么颜色的衬衫？
+pinyinsentence:,Nǐ xǐ huān shén me yán sè de chèn shān?
+englishsentence:, Do you like blue tie?
+chinesesentence:,  你喜欢蓝领带吗？
+pinyinsentence:,Nǐ xǐ huān lán lǐng dài ma?
+englishsentence:, My older brother likes wearing white shirt and blue tie.
+chinesesentence:,  我哥哥喜欢穿白衬衫戴蓝领带。
+pinyinsentence:,Wǒ gē gē xǐ huān chuān bái chèn shān dài lán lǐng dài.
+englishsentence:, This pair of white shoes looks very nice.
+chinesesentence:,  这双白色的鞋子很好看。 
+pinyinsentence:,Zhè shuāng bái sè de xié zi hěn hǎo kàn.
+englishsentence:, He looks very handsome in this blue shirt.
+chinesesentence:,  他穿这件蓝色的衬衫很帅。
+pinyinsentence:,Tā chuān zhè jiàn lán sè de chèn shān hěn shuài.
+englishsentence:, Happy birthday to you.
+chinesesentence:,  祝你生日快乐。
+pinyinsentence:,Zhù nǐ shēng rì kuài lè.
+englishsentence:, You are welcome.
+chinesesentence:,  不客气。
+pinyinsentence:,Bù kè qì.
+englishsentence:,Wang Shan is very happy this morning.
+chinesesentence:,  王山今天上午很高兴。
+pinyinsentence:,Wáng shān jīn tiān shàng wǔ hěn gāo xìng.
+englishsentence:, He will definitely like this white shirt.
+chinesesentence:,  他一定会喜欢这件白衬衫。
+pinyinsentence:,Tā yī dìng huì xǐ huān zhè jiàn bái chèn shān.
+englishsentence:, What present should I give to him?
+chinesesentence:,  我要送给他什么礼物呢？
+pinyinsentence:,Wǒ yào sòng gěi tā shén me lǐ wù ne?
+englishsentence:, What do you want to give him as present?
+chinesesentence:,  你想送给他什么礼物呢？
+pinyinsentence:,Nǐ xiǎng sòng gěi tā shén me lǐ wù ne?
+englishsentence:, He doesn't like red.
+chinesesentence:, 他不喜欢红色。
+pinyinsentence:,Tā bù xǐ huān hóng sè.
+englishsentence:, I plan to buy a pair of shoes for my son.
+chinesesentence:,  我计划给儿子买一双鞋。
+pinyinsentence:,Wǒ jì huà gěi ér zi mǎi yī shuāng xié.
+englishsentence:, I think you look handsome with red tie.
+chinesesentence:,  我觉得你戴红色的领带好看。
+pinyinsentence:,Wǒ jué dé nǐ dài hóng sè de lǐng dài hǎo kàn.
+englishsentence:, This is the birthday present for you.
+chinesesentence:,  这是送给你的生日礼物。
+pinyinsentence:,Zhè shì sòng gěi nǐ de shēng rì lǐ wù.
+englishsentence:, I am thinking to buy it.
+chinesesentence:,  我正想去买呢。
+pinyinsentence:,Wǒ zhèng xiǎng qù mǎi ne.
+englishsentence:, I really like this pair of shoes.
+chinesesentence:,  我太喜欢这双鞋了。
+pinyinsentence:,Wǒ tài xǐ huān zhè shuāng xié le
+englishsentence:, I am glad that you like it.
+chinesesentence:,  你喜欢就好。
+pinyinsentence:,Nǐ xǐ huān jiù hǎo.
+englishsentence:, Ding Shui is going to the shop to buy Xiao Ming a present.
+chinesesentence:,  丁水要去商店给小明买礼物。
+pinyinsentence:,Dīng shuǐ yào qù shāng diàn gěi xiǎo míng mǎi lǐ wù.
+englishsentence:, Xiao Ming doesn't know what color shirt he should buy.
+chinesesentence:,  小明不知道要买什么颜色的衬衫。
+pinyinsentence:,Xiǎo míng bù zhī dào yāo mǎi shén me yán sè de chèn shān.
+englishsentence:, Wang Han doesn't know what color shirt Xiao Ming likes.
+chinesesentence:,  王汉不知道小明喜欢什么颜色的衬衫。
+pinyinsentence:,Wáng hàn bù zhī dào xiǎo míng xǐ huān shén me yán sè de chèn shān.
+englishsentence:, Xiao Ming was very happy to see the birthday present.
+chinesesentence:,  小明看到生日礼物很高兴。
+pinyinsentence:,Xiǎo míng kàn dào shēng rì lǐ wù hěn gāo xìng.
+englishsentence:, My sister bought a pair of red shoes.
+chinesesentence:,  姐姐买了一双红色的鞋子。
+pinyinsentence:,Jiě jiě mǎi le yī shuāng hóng sè de xié zi.
+englishsentence:, You will definitely look handsome in this shirt.
+chinesesentence:,  你穿这件衬衫一定好看。
+pinyinsentence:,Nǐ chuān zhè jiàn chèn shān yī dìng hǎo kàn.
+englishsentence:, My dad bought three ties and one shirt yesterday.
+chinesesentence:,  我爸爸昨天买了三条领带一件衬衫。
+pinyinsentence:,Wǒ bà ba zuó tiān mǎi le sān tiáo lǐng dài yī jiàn chèn shān.
+englishsentence:, Nice to meet you.
+chinesesentence:,  见到你我很高兴。
+pinyinsentence:,Jiàn dào nǐ wǒ hěn gāo xìng.
+englishsentence:, He gave me a Chinese book.
+chinesesentence:,  他送给我一本中文书。
+pinyinsentence:,Tā sòng gěi wǒ yī běn zhōng wén shū.
+englishsentence:, I think dumplings taste delicious.
+chinesesentence:,  我觉得饺子很好吃。
+pinyinsentence:,Wǒ jué dé jiǎo zi hěn hǎo chī
+sentencelisttitle:, extra1
+englishsentence:,  
+chinesesentence:, 我为你做了一个蛋糕	
+pinyinsentence:,wǒ wèi nǐ zuò le yí ge dàn gāo
+englishsentence:,  
+chinesesentence:, 他送我一件黄色的大衣	
+pinyinsentence:,tā sòng wǒ yí jiàn huáng sè de dà yī
+englishsentence:,  
+chinesesentence:, 我想买一个蛋糕给他	
+pinyinsentence:,wǒ xiǎng mǎi yí ge dàn gāo gěi tā
+englishsentence:,  
+chinesesentence:, 我一定会到机场接你	
+pinyinsentence:,wǒ yí dìng huì dào jī chǎng jǐ nǐ
+englishsentence:,  
+chinesesentence:, 你要送他什么生日礼物	
+pinyinsentence:,nǐ yào sòng tā shén me shēng rì lǐ wù
+englishsentence:,  
+chinesesentence:, 下星期六你有空吗？	
+pinyinsentence:,xià xíng qī liù nǐ yǒu kòng ma
+englishsentence:,  
+chinesesentence:, 你能不能来参加生日舞会	
+pinyinsentence:,nǐ néng bù néng lái cān jiā shēng rì wǔ huì
+englishsentence:,  
+chinesesentence:, 你哪一天过生日	
+pinyinsentence:,nǐ nǎ yì tiān guò shēng rì
+englishsentence:,  
+chinesesentence:, 不客气我想你会喜欢这个礼物	
+pinyinsentence:,bú kè qì wǒ xiǎng nǐ huì xǐ huān zhè ge lǐ wù
+englishsentence:,  
+chinesesentence:, 他为什么今天不能参加	
+pinyinsentence:,tā wèi shén me jīn tiān bù néng cān jia
+englishsentence:,  
+chinesesentence:, 没问题我有一张地图	
+pinyinsentence:,méi wèn tí wǒ yǒu yì zhāng dì tú
+englishsentence:,  
+chinesesentence:, 太棒了我很高兴	
+pinyinsentence:,tài bàng le wǒ hěn gāo xìng
+englishsentence:,  
+chinesesentence:, 这个蛋糕是谁做的	
+pinyinsentence:,zhè ge dàn gāo shì shéi zuò de
+englishsentence:,  
+chinesesentence:, 你今年多大	
+pinyinsentence:,nǐ jīn nián duó dà
+englishsentence:,  
+chinesesentence:, 明天我会参加学校的舞会	
+pinyinsentence:,míng tiān wǒ huì cān jiā xué xiào de wǔ huì
+englishsentence:,  
+chinesesentence:, 我想买一个大一点的日历	
+pinyinsentence:,wǒ xiǎng mǎi yí ge dà yì diǎn de rì lì
+englishsentence:,  
+chinesesentence:, 祝你生日快乐	
+pinyinsentence:,zhù nǐ shēng rì kuài lè
+englishsentence:,  
+chinesesentence:, 你今年要去哪儿过年	
+pinyinsentence:,nǐ jīn nián yào qù nǎ er guò nián
+englishsentence:,  
+chinesesentence:, 你那儿有没有蜡烛	
+pinyinsentence:,nǐ nà er yǒu méi yǒu là zhú?
+englishsentence:,  
+chinesesentence:, 下午你有空来一下吗？	
+pinyinsentence:,xià wǔ nǐ yǒu kòng lái yí xià ma?
+englishsentence:,  
+chinesesentence:, 我们想为他过生日	
+pinyinsentence:,wǒ men xiàng wèi tā guò shēng rì
+englishsentence:,  
+chinesesentence:, 你能不能为我做一个蛋糕	
+pinyinsentence:,nǐ néng bù néng wèi wǒ zuò yí ge dàn gāo
+englishsentence:,  
+chinesesentence:, 你今年几岁	
+pinyinsentence:,nǐ jīn nián jǐ suì
+sentencelisttitle:, Poems
+englishsentence:,Moonlight before bed; Suspected to be frost on the ground; Raised his head and looked at the moon; Bow thinking hometown.
+chinesesentence:,床前明月光疑是地上霜举头望明月低头思故乡
+pinyinsentence:,chuáng qián míng yuè guāng yí shì dì shang shuāng jǔ tóu wàng míng yuè dī tóu sī gù xiāng
+sentencelisttitle:, extra1
+englishsentence:,I have free time on Sunday.
+chinesesentence:,我有星期天的空闲时间。
+pinyinsentence:,Wǒ yǒu xīng qí tiān de kòng xián shí jiān.
+englishsentence:,Wearing a pair of glasses; wear a hat
+chinesesentence:,戴一副眼镜戴一顶帽子
+pinyinsentence:,Dài yī fù yǎn jìng dài yī dǐng mào zi
+englishsentence:,My major is Physics and Mechatronics. I graduated in 2000 with a bachelor's degree in physics and a bachelor's degree in mechanical and electrical engineering in 2010.I am a graduate student at Massey University; major is Chinese; This semester I will study a Chinese class. I find it difficult to write Chinese characters; but it is not difficult to speak Chinese.I will be more busy next year because I plan to study Korean at a Korean university.Studying at Massey University is good. I studied at Massey University; because I can study at home; and I can study in another country. I really want to learn Chinese well!
+chinesesentence:,我的专业是物理学和机械电子工程学我2000年物理学士毕业并且在2010年取得机械电子工程学士学位我在梅西大学读研研究生专业是汉语这个学期我学习一门中文课我觉得写汉字难但是中文口语不难明年我会更忙因为我计划在韩国的所大学学习韩语在梅西大学学习很好我在梅西大学学习因为我可以在家学习还有我可以在另外的国家学习我非常想学好中文！
+pinyinsentence:,Wǒ de zhuān yè shì wù lǐ xué hé jī xiè diàn zǐ gōng chéng xué. Wǒ 2 0 0 0 nián wù lǐ xué shì bì yè; bìng qiě zài 2 0 1 0 nián qǔ dé jī xiè diàn zǐ gōng chéng xué shì xué wèi Wǒ zài méi xī dà xué dú yán yán jiū shēng; zhuān yè shì hàn yǔ. Zhè ge xué qí wǒ xué xí yī mén zhōng wén kè. Wǒ jué dé xiě hàn zì nán; dàn shì zhōng wén kǒu yǔ bù nán. Míng nián wǒ huì gèng máng; yīn wèi wǒ jì huà zài hán guó de suǒ dà xué xué xí hán yǔ. Zài méi xī dà xué xué xí hěn hǎo. Wǒ zài méi xī dà xué xué xí; yīn wèi wǒ kě yǐ zài jiā xué xí; hái yǒu wǒ kě yǐ zài lìng wài de guó jiā xué xí. Wǒ fēi cháng xiǎng xué hǎo zhōng wén!

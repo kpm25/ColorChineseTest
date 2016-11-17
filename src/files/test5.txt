@@ -1,0 +1,4 @@
+vocablisttitle:, 241.102_14
+chinesevocab:, 知道
+englishvocab:, to be aware of
+pinyinvocab:, zhī dào  
