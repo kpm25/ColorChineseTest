@@ -2,6 +2,7 @@ package com.example.mycolorchinese;
 
 import helper.DatabaseHelper;
 
+import java.io.File;
 import java.util.ArrayList;
 
 import android.animation.ObjectAnimator;
@@ -12,6 +13,7 @@ import android.content.Intent;
 import android.database.Cursor;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.os.Environment;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -70,12 +72,40 @@ public class MainActivity extends Activity {
 		//if all tables are empty load the default sets:
         if( (result1.getCount() == 0)  &&  (result2.getCount() == 0)&&  (result3.getCount() == 0)  )
        {
-            // show message
-            showMessage("You Started Color Chinese for First time, or there were no lists...","-All default lists are being loaded!!!!\n "
-            		+ "-Go to Database Manager if you want to clear,enter your own lists, or just add to default lists.\n-Press \"back\" when complete...");
             insertCharacters();
             insertSentences();
             insertVocab();
+            
+		            
+            try{      
+    	    	
+  	    	  String path = Environment.getExternalStorageDirectory().getAbsolutePath();
+  	          
+		  	    	
+		  	       // returns pathnames for files and directory
+		  	       File f = new File(path+"/ColorChinese");
+		  	      File f2 = new File(path+"/ColorChinese/images");
+		  	       
+		  	       // create
+		  	    boolean bool = f.mkdir();
+		  	  boolean bool2 = f2.mkdir();
+		  	       
+		  	       // print
+		  	       System.out.print("Directory created? "+bool
+		  	    		   +"\nDirectory2 created? "+bool2);
+		  	    
+		  	       
+		  	    }catch(Exception e)
+		  	    {
+		  	       // if any error occurs
+		  	       e.printStackTrace();
+		  	    }
+            
+            
+            // show message
+            showMessage("You Started Color Chinese for First time, or there were no lists...","-All default lists are being loaded!!!!\n "
+            		+ "-Go to Database Manager if you want to clear,enter your own lists, or just add to default lists.\n-Press \"back\" when complete...");
+           
         }
         
 		
