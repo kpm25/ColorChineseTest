@@ -1,6 +1,7 @@
 package com.example.mycolorchinese;
 
 import helper.DatabaseHelper;
+import helper.DownloadImages;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -72,9 +73,6 @@ public class MainActivity extends Activity {
 		//if all tables are empty load the default sets:
         if( (result1.getCount() == 0)  &&  (result2.getCount() == 0)&&  (result3.getCount() == 0)  )
        {
-            insertCharacters();
-            insertSentences();
-            insertVocab();
             
 		            
             try{      
@@ -101,6 +99,11 @@ public class MainActivity extends Activity {
 		  	       e.printStackTrace();
 		  	    }
             
+            
+            insertCharacters();
+            insertSentences();
+            insertVocab();
+           
             
             // show message
             showMessage("You Started Color Chinese for First time, or there were no lists...","-All default lists are being loaded!!!!\n "
@@ -146,18 +149,39 @@ public class MainActivity extends Activity {
 	   	 Toast.makeText(MainActivity.this,"chineseVocabArraylist: "+chineseVocabArraylist.get(0).getListtitle(),Toast.LENGTH_LONG).show();
 	   	 boolean isInserted = false;
 	   	 
+	   	 
+	   	 
+	   	
+	   	 
+	   
+		
+		
+        	
+      
+       
+	
+	   	 
 	  
 	  	  for(int i =0;i< chineseVocabArraylist.size() ;i++)
 	  	  {
-	  		  isInserted = myDb.insertVocabData(chineseVocabArraylist.get(i).getListtitle(),chineseVocabArraylist.get(i).getChinesevocab(),chineseVocabArraylist.get(i).getEnglishvocab()
-	  				  ,chineseVocabArraylist.get(i).getPinyinvocab() );
+	  		  
+		  		String      search_string = chineseVocabArraylist.get(i).getChinesevocab();
+		        search_string = search_string.replace(" ", "");
+		        	
+		        	DownloadImages download = new DownloadImages(search_string);
+		        	download.execute();
+		        	
+		  		String str = chineseVocabArraylist.get(i).getChinesevocab().replace(" !", "!"); 
+		  		String listtitle = (chineseVocabArraylist.get(i).getListtitle().replace(" ", ""));
+		  		  isInserted = myDb.insertVocabData(listtitle,str,chineseVocabArraylist.get(i).getEnglishvocab()
+		  				  ,chineseVocabArraylist.get(i).getPinyinvocab() );
 	       
 	  	  }
 	          
 		  	if(isInserted == true)
-		       Toast.makeText(MainActivity.this,"Data Inserted",Toast.LENGTH_LONG).show();
+		       Toast.makeText(MainActivity.this,"New Vocab Inserted",Toast.LENGTH_LONG).show();
 		   else
-		       Toast.makeText(MainActivity.this,"Data not Inserted",Toast.LENGTH_LONG).show(); 
+		       Toast.makeText(MainActivity.this,"Vocab not Inserted",Toast.LENGTH_LONG).show(); 
 	    
 		
 	}
